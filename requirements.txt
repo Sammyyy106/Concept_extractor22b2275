@@ -1,0 +1,7 @@
+spacy==3.7.2
+nltk==3.8.1
+matplotlib==3.8.4
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.25.1
+rapidfuzz>=3.8.0  # Let pip choose a compatible version
+python-dotenv==1.0.1

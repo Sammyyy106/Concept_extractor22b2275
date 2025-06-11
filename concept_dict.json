@@ -1,0 +1,12 @@
+{
+  "harappa": ["Harappan Civilization", "Urban Planning"],
+  "harappan": ["Harappan Civilization", "Urban Planning"],
+  "city planning": ["Urban Planning"],
+  "ashoka": ["Ashokan Edicts", "Mauryan Empire"],
+  "edicts": ["Ashokan Edicts"],
+  "vedic": ["Vedic Culture"],
+  "kautilya": ["Mauryan Empire", "Arthashastra"],
+  "arthashastra": ["Mauryan Empire", "Arthashastra"],
+  "brahmin": ["Brahmadeya", "Religious Institutions"],
+  "ghatika": ["Temple Education", "Ancient Learning Centers"]
+}
